@@ -10,5 +10,5 @@
 * [Google App Engineの世代交代](https://docs.google.com/presentation/d/1trxz4_ksRyHdj2cAGVKiy3gtx7q1-AE06XbzLraBD44/edit#slide=id.p)
 * [GCP Database Options](https://docs.google.com/presentation/d/1ndCwz8hIDOvUBqHXwHc7oDB3Cs0lSRa7M4PGfapy7zQ/edit#slide=id.g3cf2532adc_0_136)
 * [GCP Databaseの世代交代](https://docs.google.com/presentation/d/11Jp1gt-n8LxVgrHBRy1ym6iJMsKww-mit1A00IS-oHk/edit#slide=id.g3cf2532adc_0_136)
-* [GCPでマルチプレイヤーゲームを作ってる話]（https://docs.google.com/presentation/d/1UyPATSN4ec2M8JUyLPpT7C1Z8b53j_9N4MCOR6A5im4/edit#slide=id.p）
+* [GCPでマルチプレイヤーゲームを作ってる話](https://docs.google.com/presentation/d/1UyPATSN4ec2M8JUyLPpT7C1Z8b53j_9N4MCOR6A5im4/edit#slide=id.p)
 * [Minecraft Server on Google Cloud Platform](https://sinmetal-slide.appspot.com/20170707-sinmetalcraft/sinmetalcraft.slide#1)
