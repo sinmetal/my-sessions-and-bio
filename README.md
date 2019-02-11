@@ -4,7 +4,7 @@
 
 sinmetal / 株式会社メルカリ / 株式会社メルペイ 
 
-[GCPUG Admin](https://gcpug/jp) 、 [Google Developers Expert](https://developers.google.com/experts/people/shingo-ishimura) 。2011年にGoogle App Engineに出会ってから、ずっとGoogle App Engineを使い続けている。Google Cloud Platformがリリースされた後はGoogle App Engine以外の様々なサービスにも触れている。特に好きなのはGoogle App Engine, BigQuery, Cloud Datastore, Cloud Firestore, Google Kubernetes Engine, Google Cloud Build。最近のマイブームは Application Performance Management。仕事では社内のGoogle Cloud Platformコンサルティングのようなことをしている。
+[GCPUG Admin](https://gcpug.jp) 、 [Google Developers Expert](https://developers.google.com/experts/people/shingo-ishimura) 。2011年にGoogle App Engineに出会ってから、ずっとGoogle App Engineを使い続けている。Google Cloud Platformがリリースされた後はGoogle App Engine以外の様々なサービスにも触れている。特に好きなのはGoogle App Engine, BigQuery, Cloud Datastore, Cloud Firestore, Google Kubernetes Engine, Google Cloud Build。最近のマイブームは Application Performance Management。仕事では社内のGoogle Cloud Platformコンサルティングのようなことをしている。
 
 Web Application Engineerで、インフラストラクチャはあまり得意ではない。そのため、Shellの書き方が分からないから、 [Go](https://golang.org/) で書くし、自分で作ったDockerfileに大抵 `FROM alpine` と書いてあるだけ。普段の開発環境はMac OS上でJetBrainsのIDEを利用している。
 元々はJavaを使っていたが、2014年にGoに出会い、 `gofmt` と `Goroutine` , クロスコンパイル, シングルバイナリの機能を気に入り、それからはGoをメイン言語としている。
