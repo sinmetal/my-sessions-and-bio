@@ -2,6 +2,8 @@
 
 ## Bio
 
+sinmetal / 株式会社メルカリ / 株式会社メルペイ 
+
 [GCPUG Admin](https://gcpug/jp) 、 [Google Developers Expert](https://developers.google.com/experts/people/shingo-ishimura) 。2011年にGoogle App Engineに出会ってから、ずっとGoogle App Engineを使い続けている。Google Cloud Platformがリリースされた後はGoogle App Engine以外の様々なサービスにも触れている。特に好きなのはGoogle App Engine, BigQuery, Cloud Datastore, Cloud Firestore, Google Kubernetes Engine, Google Cloud Build。最近のマイブームは Application Performance Management。仕事では社内のGoogle Cloud Platformコンサルティングのようなことをしている。
 
 ## Session List
