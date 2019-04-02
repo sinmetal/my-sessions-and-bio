@@ -19,3 +19,5 @@ Databaseは主にGoogle Cloud Datastoreを利用しているので、RDBはほ�
 * [GCP Databaseの世代交代](https://docs.google.com/presentation/d/11Jp1gt-n8LxVgrHBRy1ym6iJMsKww-mit1A00IS-oHk/edit#slide=id.g3cf2532adc_0_136)
 * [GCPでマルチプレイヤーゲームを作ってる話](https://docs.google.com/presentation/d/1UyPATSN4ec2M8JUyLPpT7C1Z8b53j_9N4MCOR6A5im4/edit#slide=id.p)
 * [Minecraft Server on Google Cloud Platform](https://sinmetal-slide.appspot.com/20170707-sinmetalcraft/sinmetalcraft.slide#1)
+* [BigQueryとCompute Engineで扱う自然言語のビッグデータ](https://docs.google.com/presentation/d/1y5EDFW_HdrS4cpYXUeTArVzvsUrtN_RamL2sqBHwIm8/edit#slide=id.g16af37ca58_1_0)
+* [OpenCensusを使ってみて、便利なところと、困ってるところ](https://docs.google.com/presentation/d/1J0fh9_C-Juhy1N3EB1G9PqR8NRWgwJjb0VCy7VfRbXI/edit#slide=id.p)
