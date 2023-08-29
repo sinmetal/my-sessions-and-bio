@@ -26,3 +26,4 @@ Databaseは主にGoogle Cloud Datastoreを利用しているので、RDBはほ�
 ## Refs
 
 * https://zenn.dev/sinmetal
+* https://bsky.app/profile/sinmetal.bsky.social
