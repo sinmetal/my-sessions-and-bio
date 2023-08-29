@@ -22,3 +22,7 @@ Databaseは主にGoogle Cloud Datastoreを利用しているので、RDBはほ�
 * [BigQueryとCompute Engineで扱う自然言語のビッグデータ](https://docs.google.com/presentation/d/1y5EDFW_HdrS4cpYXUeTArVzvsUrtN_RamL2sqBHwIm8/edit#slide=id.g16af37ca58_1_0)
 * [OpenCensusを使ってみて、便利なところと、困ってるところ](https://docs.google.com/presentation/d/1J0fh9_C-Juhy1N3EB1G9PqR8NRWgwJjb0VCy7VfRbXI/edit#slide=id.p)
 * [Spanner沼への誘い](https://docs.google.com/presentation/d/1LlrIvkv02Jj1OvjKWsKnMNbR3Np72rUxWqatmzywLPI/edit#slide=id.p)
+
+## Refs
+
+* https://zenn.dev/sinmetal
